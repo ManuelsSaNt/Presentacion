@@ -273,3 +273,28 @@ overflow: hidden;
   }
 
 }
+
+@media only screen and (max-width: 332px){
+
+  .barra_superior h2 {
+    font-size: .9rem;
+  }
+  .helloWorld {
+    margin-top: 5rem;
+    font-size: .7rem;
+    margin-bottom: -2rem;
+  }
+  .about_me{
+    font-size: .46rem;
+  }
+  .my_datos {
+    font-size: .78rem;
+  }
+  .my_datos img{
+    width: 16rem;
+  }
+
+  .tecnologias {
+    font-size: .7rem;
+  }
+}
