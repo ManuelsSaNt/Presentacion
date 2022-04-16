@@ -262,3 +262,14 @@ overflow: hidden;
   }
 
 }
+
+@media only screen and (max-width: 367px){
+
+  .about_me{
+    font-size: .52rem;
+  }
+  .my_datos {
+    font-size: .86rem;
+  }
+
+}
