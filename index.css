@@ -78,16 +78,21 @@ overflow: hidden;
   justify-content: center;
 }
 
+.about_me h1{
+  font-size: 1.4rem;
+}
+
+
 .my_datos {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 3rem;
   font-family: "Consolas", monospace;
-  font-size: 1.5rem;
 }
 
 .my_datos h4{
+  font-size: 1rem;
   position: relative;
   margin-top: .6rem;
   border-bottom: #F0F0F0 solid .2rem;
@@ -192,8 +197,8 @@ overflow: hidden;
 
 
 @media only screen and (max-width: 635px) {
-  .about_me {
-    font-size: .7rem;
+  .about_me h1{
+    font-size: 1.4rem;
   }
 
   .my_datos {
@@ -225,11 +230,11 @@ overflow: hidden;
 }
 
 @media only screen and (max-width: 464px){
-  .about_me{
-    font-size: .66rem;
+  .about_me h1{
+    font-size: 1.2rem;
   }
   .my_datos {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
   }
   .tecnologias {
     margin-top: 8rem;
@@ -263,18 +268,19 @@ overflow: hidden;
 
 }
 
-@media only screen and (max-width: 367px){
+@media only screen and (max-width: 388px){
 
-  .about_me{
-    font-size: .52rem;
+  .about_me h1{
+    font-size: 1rem;
+    margin-top: -2rem;
   }
-  .my_datos {
+  .my_datos h4{
     font-size: .86rem;
   }
 
 }
 
-@media only screen and (max-width: 332px){
+@media only screen and (max-width: 333px){
 
   .barra_superior h2 {
     font-size: .9rem;
@@ -284,17 +290,21 @@ overflow: hidden;
     font-size: .7rem;
     margin-bottom: -2rem;
   }
-  .about_me{
-    font-size: .46rem;
+  .about_me h1{
+    font-size: .9rem;
   }
-  .my_datos {
+  .my_datos h4{
     font-size: .78rem;
   }
   .my_datos img{
     width: 16rem;
   }
 
-  .tecnologias {
-    font-size: .7rem;
+  .tecnologias h1{
+    font-size: 1.3rem;
+  }
+
+  .my_work h1 {
+    font-size: 1.3rem;
   }
 }
