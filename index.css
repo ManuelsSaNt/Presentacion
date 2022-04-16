@@ -91,7 +91,7 @@ overflow: hidden;
 }
 
 .my_datos h4{
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   position: relative;
   margin-top: .6rem;
   border-bottom: #F0F0F0 solid .2rem;
@@ -200,7 +200,7 @@ overflow: hidden;
   }
 
   .my_datos h4{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 
   .lenguajes {
@@ -232,7 +232,7 @@ overflow: hidden;
     font-size: 1.2rem;
   }
   .my_datos h4{
-    font-size: 1rem;
+    font-size: .95rem;
   }
   .tecnologias {
     margin-top: 8rem;
@@ -252,7 +252,7 @@ overflow: hidden;
     font-size: .9rem;
   }
   .my_datos h4{
-    font-size: .95rem;
+    font-size: .90rem;
   }
   .tecnologias h1{
     font-size: 1.2rem;
