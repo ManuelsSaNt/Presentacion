@@ -191,7 +191,7 @@ overflow: hidden;
 
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 635px) {
   .about_me {
     font-size: .7rem;
   }
@@ -224,7 +224,7 @@ overflow: hidden;
 
 }
 
-@media only screen and (max-width: 450px){
+@media only screen and (max-width: 464px){
   .about_me{
     font-size: .66rem;
   }
@@ -236,7 +236,7 @@ overflow: hidden;
   }
 } 
 
-@media only screen and (max-width: 414px){
+@media only screen and (max-width: 427px){
   .barra_superior h2{
     font-size: 1.2rem;
   }
