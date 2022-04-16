@@ -24,7 +24,7 @@ body {
 .barra_superior h2 {
   border-bottom: #f0f0f0 solid;
   font-size: 1.4rem;
-  font-family: "consolas";
+  font-family: "Consolas", monospace;
   color: #f0f0f0;
 }
 .barra_superior h2:hover{
@@ -72,7 +72,7 @@ overflow: hidden;
 }
 
 .about_me {
-  font-family: "Consolas";
+  font-family: "Consolas", monospace;
   margin-top: 8rem;
   display: flex;
   justify-content: center;
@@ -83,7 +83,7 @@ overflow: hidden;
   flex-direction: column;
   align-items: center;
   margin-top: 3rem;
-  font-family: "Consolas";
+  font-family: "Consolas", monospace;
   font-size: 1.5rem;
 }
 
@@ -107,7 +107,7 @@ overflow: hidden;
 
 
 .tecnologias {
-  font-family: "Consolas";
+  font-family: "Consolas", monospace;
   margin-top: 12rem;
   display: flex;
   align-self: center;
@@ -136,7 +136,7 @@ overflow: hidden;
 }
 
 .my_work {
-  font-family: "Consolas";
+  font-family: "Consolas", monospace;
   margin-top: 9rem;
   display: flex;
   justify-content: center;
@@ -158,11 +158,11 @@ overflow: hidden;
   flex-direction: column;
 }
 .left_footer h2{
-  font-family: consolas;
+  font-family: "Consolas", monospace;
   margin-bottom: .8rem;
 }
 .left_footer p{
-  font-family: consolas;
+  font-family: "Consolas", monospace;
 }
 
 
@@ -173,11 +173,11 @@ overflow: hidden;
   flex-direction: column;
 }
 .right_footer h2{
-  font-family: consolas;
+  font-family: "Consolas", monospace;
   margin-bottom: .8rem;
 }
 .right_footer p{
-  font-family: consolas;
+  font-family: "Consolas", monospace;
 }
 
 .back_footer {
