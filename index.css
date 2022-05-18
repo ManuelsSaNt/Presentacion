@@ -14,9 +14,10 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-around;
-  padding: 1.2rem 0rem 1.2rem 0rem;
+  padding: 1.6rem 0rem 1.6rem 0rem;
   background-color: #000000;
 }
+
 .barra_superior a{
   text-decoration: none;
 }
@@ -28,6 +29,8 @@ body {
   color: #f0f0f0;
 }
 .barra_superior h2:hover{
+  transform: scale(1.3);
+  transition-duration: .8s;
   color: #b7a4d6;
   border-color: #b7a4d6;
 }
@@ -79,7 +82,7 @@ overflow: hidden;
 }
 
 .about_me h1{
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 
 .my_datos {
@@ -91,7 +94,7 @@ overflow: hidden;
 }
 
 .my_datos h4{
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   position: relative;
   margin-top: .6rem;
   border-bottom: #F0F0F0 solid .2rem;
